@@ -790,7 +790,7 @@ textarea {
 
 input,
 textarea {
-  display: block;
+
   width: 100%;
 
   background-color: #fff;
@@ -1252,4 +1252,5 @@ a:focus, [tabindex="0"]:focus {
   }
 
   /* End HTML5 Boilerplate code */
+
 }
